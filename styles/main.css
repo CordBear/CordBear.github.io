@@ -754,5 +754,6 @@ a {
 
       .sidebar {
   overflow-y: hidden !important;
+  overflow-x: hidden !important;
 }
     
